@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://C:/opt/oracle/product/12.2.0/dbhome_1/demo/schema/human_resources/hr_cre.sql" dialect="OracleSqlPlus" />
+    <file url="file://C:/opt/oracle/product/12.2.0/dbhome_1/demo/schema/human_resources/hr_main.sql" dialect="OracleSqlPlus" />
+    <file url="PROJECT" dialect="OracleSqlPlus" />
+  </component>
+</project>

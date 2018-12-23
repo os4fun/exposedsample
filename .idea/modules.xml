@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposedsample.iml" filepath="$PROJECT_DIR$/.idea/modules/exposedsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposedsample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exposedsample_main.iml" group="exposedsample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposedsample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exposedsample_test.iml" group="exposedsample" />
+    </modules>
+  </component>
+</project>
